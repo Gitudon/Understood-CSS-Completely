@@ -1,0 +1,30 @@
+body{
+background-color:#23344e;
+font-size:25px;
+}
+h1{
+ margin: 100px auto;
+ width: 180px;
+ height: 130px;
+ padding: 3px 83px 10px 40px;
+ border: solid 2px;
+ border-radius: 13px;
+ white-space: pre;
+ color:#ffa500;
+}
+p{
+color:white;
+padding:49.5px;
+font-size:50px;
+font-family:'游明朝';
+}
+ul{
+color:white;
+padding:49.5px;
+font-family:'游明朝';
+}
+a{
+font-size:50px;
+color:#ffa500;
+font-weight:'bold';
+}
